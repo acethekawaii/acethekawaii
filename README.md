@@ -82,21 +82,21 @@ Other Tools & Technologies</summary>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/971077954941620276?borderRadius=5px&idleMessage=%F0%9F%8C%BFAFK%20in%20real%20life&theme=dark)](https://discord.com/users/971077954941620276)
 
-<a href="https://github.com/PriyankeshRaj"><img src="https://img.shields.io/github/followers/lugh-tuatha?label=follow&style=social"></a>
+<a href="https://github.com/PriyankeshRaj"><img src="https://img.shields.io/github/followers/acethekawaii?label=follow&style=social"></a>
 
 ## 📊 Top Language
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lugh-tuatha&layout=compact&langs_count=8&&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acethekawaii&layout=compact&langs_count=8&&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lugh-tuatha&layout=compact&langs_count=8&&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acethekawaii&layout=compact&langs_count=8&&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🍹 Ace's Stats
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lugh-tuatha&include_all_commits=false&show_icons=true&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=acethekawaii&include_all_commits=false&show_icons=true&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=lugh-tuatha&include_all_commits=false&show_icons=true&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=acethekawaii&include_all_commits=false&show_icons=true&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com/?user=lugh-tuatha&theme=dark&fire=259076&hide_border=true&ring=259076&currStreakLabel=259076" alt="" /></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com/?user=acethekawaii&theme=dark&fire=259076&hide_border=true&ring=259076&currStreakLabel=259076" alt="" /></a>
 
-## 👩🏻‍💻 Codewars Stats
+## 👩🏻‍💻 Codewars Statss
 <a href="https://www.codewars.com/users/lugh-tuatha">
   <img src="https://www.codewars.com/users/lugh-tuatha/badges/large" />
 </a>
@@ -109,19 +109,19 @@ If wakatime stats don't work, he must be cosplaying Cloudflare
 ## 📚 Notable Repositories to Check Out
 Here are some of my key projects <br>
 
-[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lugh-tuatha&repo=attendify-frontend)](https://github.com/lugh-tuatha/attendify-frontend)
-[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=lugh-tuatha&repo=astryss-frontend)](https://github.com/lugh-tuatha/astryss-frontend)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=acethekawaii&repo=attendify-frontend)](https://github.com/acethekawaii/attendify-frontend)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=acethekawaii&repo=astryss-frontend)](https://github.com/acethekawaii/astryss-frontend)
 
 ## 📝 Write something nice in my guest book
 Feel free to reach out for collaborations, projects, or just to say hi! <br> <br>
-[![Guest book](https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif)](https://github.com/lugh-tuatha/lugh-tuatha/issues)
+[![Guest book](https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif)](https://github.com/acethekawaii/acethekawaii/issues)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 ### 👀 Visitors
 <div align="left">
-  <img src="https://count.getloli.com/get/@lugh-tuatha" alt="lugh-tuatha's count"/>
+  <img src="https://count.getloli.com/get/@acethekawaii" alt="acethekawaii's count"/>
 </div>
 
 > Last Manually Edited: 2025-12-11
