@@ -1,39 +1,32 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+<div align="center">
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan"">
+</div>
 
-<pre>
-Nice to meet you, I'm . . .
-Wait I who am I?
-Who lured me into this world?
-</pre>
+<div align="center">
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome">
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Ace+Gabriel%2C+21+years+old;Fullstack+Web+Developer)](https://git.io/typing-svg)
+# Hi there, dipshit.
 
-```js
-const introduction = {
-  name: "🤠 Who Am I?",
-  details: [
-    "🤓 Self taught Developer",
-    "😄 Pronouns: He/him",
-    "🖖 Angular & NestJS fanatics",T
-    "🌱 Currently learning Deep Learning with Python",
-    "👯 Looking to collaborate on any projects",
-    "💬 Ask me about Web Development"
-  ]
-};
+I'm Ace Gabriel. a software engineer based in Philippines carrying a dangerous 1 year+ of professional experience. I'm interested in leaning machine learning. Recent focus on full stack development.
 
-console.log(introduction.name);
-introduction.details.forEach(detail => {
-  console.log(detail);
-});
-```
+A System Developer by day ☼ and a student by night ☾
 
-## ⬆ What I'm up to
-- 🔭 I’m currently...
-  - Developing Astryss, freedom platform where users send their thoughts “to the stars.”
-  - Updating & Maintaining Attendify, face recognition attendance management with real-time analytics.
-- 👀 See my [Personal portfolio](https://ace-gabriel.netlify.app) to get more info
+No doubt, I still build better shit than your dearly great grandma.
 
-## 🧉 I'm an Angular & NestJS fanboy, but I do other stuff too such;
+<!-- I make things that work. Most people don't. -->
+
+## What the fuck I'm doing right now
+
+I'm currently developing [Aleevia Carter Residences](https://aleevia-carter-residences.vercel.app). A lead-generation landing page with an admin dashboard for content and subscriber management, hell yeah it has lightweight CRM and CMS. It also integrates analytics powered by [PostHog](https://posthog.com) to better understand user behavior, optimize conversions, and improve the overall customer journey. 
+
+![Aleevia Carter Residences Landing Page](./assets/aleevia-carter-example.png)
+
+> See my fucking [Portfolio](https://acethekawaii.work) if you want more of this shit.
+
+## Tech shit I actually use
+
+I'm an Angular & NestJS fanboy, Everything else is side chicks;
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -75,53 +68,53 @@ Other Tools & Technologies</summary>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
-## 🧉 Connect with me
+## Connect with me
 <a href="https://twitter.com/_tuatha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_tuatha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ace-gabriel-p-pasiliao-74594b250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ace-gabriel-p-pasiliao-74594b250" height="30" width="40" /></a>
 <a href="https://fb.com/karma.053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karma.053" height="30" width="40" /></a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/971077954941620276?borderRadius=5px&idleMessage=%F0%9F%8C%BFAFK%20in%20real%20life&theme=dark)](https://discord.com/users/971077954941620276)
-
 <a href="https://github.com/PriyankeshRaj"><img src="https://img.shields.io/github/followers/acethekawaii?label=follow&style=social"></a>
 
-## 📊 Top Language
+For **freelance work?** do reach out at acegabriel0809@gmail.com
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/971077954941620276?borderRadius=5px&idleMessage=%F0%9F%8C%BFAFK%20in%20real%20life&theme=dark)](https://discord.com/users/971077954941620276)
+
+## Stats
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acethekawaii&layout=compact&langs_count=8&&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acethekawaii&layout=compact&langs_count=8&&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🍹 Ace's Stats
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=acethekawaii&include_all_commits=false&show_icons=true&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=acethekawaii&include_all_commits=false&show_icons=true&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com/?user=acethekawaii&theme=dark&fire=259076&hide_border=true&ring=259076&currStreakLabel=259076" alt="" /></a>
 
-## 👩🏻‍💻 Codewars Statss
+## Codewars Statss
 <a href="https://www.codewars.com/users/lugh-tuatha">
   <img src="https://www.codewars.com/users/lugh-tuatha/badges/large" />
 </a>
 
-## 📊 Wakatime Stats:
+## Wakatime Stats:
 <a href="https://wakatime.com/@lughtuatha" title="Data update every midnight"><img src="https://wakatime.com/badge/user/018b76ca-407e-41f4-b120-d99795dc2159.svg?style=for-the-badge" alt="Wakatime coding activity Tracker" /></a> <br>
 ![Lugh's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lughtuatha\&layout=compact) <br>
 If wakatime stats don't work, he must be cosplaying Cloudflare 
 
-## 📚 Notable Repositories to Check Out
-Here are some of my key projects <br>
+## Notable Repositories to Check Out
+
+This is not your shitty little to-do app <br>
 
 [![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=acethekawaii&repo=attendify-frontend)](https://github.com/acethekawaii/attendify-frontend)
 [![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=acethekawaii&repo=astryss-frontend)](https://github.com/acethekawaii/astryss-frontend)
 
-## 📝 Write something nice in my guest book
+## Write something useful in my guest book
 Feel free to reach out for collaborations, projects, or just to say hi! <br> <br>
 [![Guest book](https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif)](https://github.com/acethekawaii/acethekawaii/issues)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 ### 👀 Visitors
 <div align="left">
-  <img src="https://count.getloli.com/get/@acethekawaii" alt="acethekawaii's count"/>
+  <img src="https://count.getloli.com/get/@lugh-tuatha" alt="acethekawaii's count"/>
 </div>
 
-> Last Manually Edited: 2025-12-11
+> Last Manually Edited: 2026-05-13
